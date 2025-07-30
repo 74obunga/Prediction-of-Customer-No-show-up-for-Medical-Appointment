@@ -1,0 +1,2 @@
+# Prediction-of-Customer-No-show-up-for-Medical-Appointment
+This notebook Follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) Process to train a Machine Learning model that predicts whether a patient will not show up for medical appointment. We use real world dataset with historical records of appointment logistics to train a predictive model using , Python, sci-kit Learn and Streamlit
